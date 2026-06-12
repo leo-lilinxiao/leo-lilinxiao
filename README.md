@@ -23,9 +23,9 @@ const linxiao = {
 };
 ```
 
-- 👋 Hi, I'm **linxiao**. I like turning algorithm ideas into AI systems that can survive the real world.
-- 🏢 Currently at **AIGCode（蔻町科技）**. Previously an **Algorithm Researcher / Senior Engineer** at [**Huawei Cloud C Lab**](https://www.huaweicloud.com/lab/cloud/home.html), where I also did a bit of everything: coding, infra, deployments, and keeping things running.
-- 🛠️ Much of my favorite work lives inside company products, so this profile is my little public window: side projects, notes, and experiments I can share.
+- 👋 Hi, I'm **linxiao**. I enjoy taking algorithms from whiteboard sketches to AI systems that can handle real traffic without losing their cool.
+- 🏢 Currently at **AIGCode（蔻町科技）**. Previously an **Algorithm Researcher / Senior Engineer** at [**Huawei Cloud C Lab**](https://www.huaweicloud.com/lab/cloud/home.html), where I moved between research, infra, deployments, and keeping systems calm.
+- 🛠️ Much of my favorite work lives inside company products, so this profile is my public workbench: side projects, notes, experiments, and a few things allowed to see daylight.
 - 🏡 Personal site: [**leo-lilinxiao.github.io**](https://leo-lilinxiao.github.io/)
 - 🎮 I do not play much these days, but **League of Legends** used to be my favorite game.
 
