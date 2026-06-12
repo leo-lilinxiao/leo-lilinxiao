@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+linxiao+%F0%9F%91%8B;Algorithms+%2F+AI+infra+%2F+reliable+systems;Building+with+code+and+curiosity;Working+%40+AIGCode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+linxiao+%F0%9F%91%8B;Algorithms+%2F+AI+infra+%2F+reliable+systems;Turning+research+ideas+into+running+systems;Working+%40+AIGCode)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,9 +17,9 @@
 ```ts
 const linxiao = {
   name: "linxiao",
-  role: "Algorithm researcher · AI infrastructure engineer",
+  role: "Algorithm Researcher · AI Infrastructure Engineer",
   company: "AIGCode（蔻町科技）",
-  interests: ["Algorithms", "AI infrastructure", "Coding", "Systems reliability"],
+  focus: ["Algorithms", "AI infrastructure", "Reliable systems", "Engineering craft"],
 };
 ```
 
