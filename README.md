@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+linxiao+%F0%9F%91%8B;Algorithms+%2F+AI+infra+%2F+coding;Building+with+code+and+curiosity;Working+%40+AIGCode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+linxiao+%F0%9F%91%8B;Algorithms+%2F+AI+infra+%2F+reliable+systems;Building+with+code+and+curiosity;Working+%40+AIGCode)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,13 +17,13 @@
 ```ts
 const linxiao = {
   name: "linxiao",
-  role: "Algorithm researcher · AI infra · programmer",
+  role: "Algorithm researcher · AI infrastructure engineer",
   company: "AIGCode（蔻町科技）",
   interests: ["Algorithms", "AI infrastructure", "Coding", "Systems reliability"],
 };
 ```
 
-- 👋 Hi, I'm **linxiao**. I like living where algorithms, AI infrastructure, and useful software bump into each other.
+- 👋 Hi, I'm **linxiao**. I like turning algorithm ideas into AI systems that can survive the real world.
 - 🏢 Currently at **AIGCode（蔻町科技）**. Previously an **Algorithm Researcher / Senior Engineer** at [**Huawei Cloud C Lab**](https://www.huaweicloud.com/lab/cloud/home.html), where I also did a bit of everything: coding, infra, deployments, and keeping things running.
 - 🛠️ Much of my favorite work lives inside company products, so this profile is my little public window: side projects, notes, and experiments I can share.
 - 🏡 Personal site: [**leo-lilinxiao.github.io**](https://leo-lilinxiao.github.io/)
