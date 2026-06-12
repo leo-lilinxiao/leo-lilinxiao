@@ -19,9 +19,7 @@ const linxiao = {
   name: "linxiao",
   role: "Algorithm researcher · AI infra · programmer",
   company: "AIGCode（蔻町科技）",
-  previous: "Algorithm Researcher / Senior Engineer @ Huawei Cloud C Lab",
   interests: ["Algorithms", "AI infrastructure", "Coding", "Systems reliability"],
-  favoriteGame: "I do not play much these days, but League of Legends used to be my favorite game.",
 };
 ```
 
